@@ -41,7 +41,7 @@ This project improved my skills in:
 - Business data analysis
 - Dashboard creation in Excel
 - Extracting actionable insights from raw data
-
+Author Boipelo Dipudi
 
 ## 📌 Author
 Future Data Analyst in training 🚀
