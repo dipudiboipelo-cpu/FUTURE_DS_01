@@ -15,7 +15,7 @@ Dataset
   - Category
   - Sub-category
   - Customer segments
-Tools Used
+Tools used:
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
@@ -28,7 +28,7 @@ The Excel dashboard includes:
 - Profit vs Sales comparison
 - Top-performing products
 - Time-based sales trends
- Key Insights
+ Key Insights:
 - Furniture category (especially Tables) is generating losses due to high discounts
 - Technology is the most profitable category with strong margins
 - West region shows the highest overall profitability
@@ -41,7 +41,5 @@ This project improved my skills in:
 - Business data analysis
 - Dashboard creation in Excel
 - Extracting actionable insights from raw data
-Author Boipelo Dipudi
-
-## 📌 Author
-Future Data Analyst in training 🚀
+   Author:
+  Boipelo Dipudi
